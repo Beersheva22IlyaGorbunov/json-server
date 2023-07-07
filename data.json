@@ -1,0 +1,385 @@
+{
+  "employees": [
+    {
+      "name": "Jennifer",
+      "birthDate": "1956-09-19T21:00:00.000Z",
+      "gender": "female",
+      "salary": 25000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 58
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1954-07-19T21:00:00.000Z",
+      "gender": "male",
+      "salary": 39500,
+      "department": "Development",
+      "userId": "admin",
+      "id": 60
+    },
+    {
+      "name": "Matthew",
+      "birthDate": "1952-02-10T22:00:00.000Z",
+      "gender": "male",
+      "salary": 30500,
+      "department": "QA",
+      "userId": "admin",
+      "id": 62
+    },
+    {
+      "name": "Jennifer",
+      "birthDate": "1968-03-10T22:00:00.000Z",
+      "gender": "female",
+      "salary": 30000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 65
+    },
+    {
+      "name": "Christopher",
+      "birthDate": "1979-10-17T22:00:00.000Z",
+      "gender": "male",
+      "salary": 49496,
+      "department": "Audit",
+      "userId": "admin",
+      "id": 66
+    },
+    {
+      "name": "Karen",
+      "birthDate": "1980-08-18T21:00:00.000Z",
+      "gender": "female",
+      "salary": 46500,
+      "department": "Development",
+      "userId": "admin",
+      "id": 67
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1956-05-30T22:00:00.000Z",
+      "gender": "male",
+      "salary": 44000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 68
+    },
+    {
+      "name": "Robert",
+      "birthDate": "1977-10-14T22:00:00.000Z",
+      "gender": "male",
+      "salary": 21500,
+      "department": "Management",
+      "userId": "admin",
+      "id": 69
+    },
+    {
+      "name": "Karen",
+      "birthDate": "1969-09-30T22:00:00.000Z",
+      "gender": "female",
+      "salary": 13000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 70
+    },
+    {
+      "name": "Robert",
+      "birthDate": "1993-06-15T21:00:00.000Z",
+      "gender": "male",
+      "salary": 40500,
+      "department": "Management",
+      "userId": "admin",
+      "id": 71
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1995-08-30T21:00:00.000Z",
+      "gender": "male",
+      "salary": 35000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 72
+    },
+    {
+      "name": "Matthew",
+      "birthDate": "1950-01-28T22:00:00.000Z",
+      "gender": "male",
+      "salary": 28000,
+      "department": "Management",
+      "userId": "admin",
+      "id": 74
+    },
+    {
+      "name": "Karen",
+      "birthDate": "1977-01-31T22:00:00.000Z",
+      "gender": "female",
+      "salary": 48000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 75
+    },
+    {
+      "name": "Jessica",
+      "birthDate": "1965-10-13T22:00:00.000Z",
+      "gender": "female",
+      "salary": 33500,
+      "department": "QA",
+      "userId": "admin",
+      "id": 76
+    },
+    {
+      "name": "Christopher",
+      "birthDate": "1965-01-01T22:00:00.000Z",
+      "gender": "male",
+      "salary": 48000,
+      "department": "Audit",
+      "userId": "admin",
+      "id": 77
+    },
+    {
+      "name": "Karen",
+      "birthDate": "1960-08-19T22:00:00.000Z",
+      "gender": "female",
+      "salary": 39000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 78
+    },
+    {
+      "name": "Michael",
+      "birthDate": "1995-08-09T21:00:00.000Z",
+      "gender": "male",
+      "salary": 35500,
+      "department": "Audit",
+      "userId": "admin",
+      "id": 79
+    },
+    {
+      "name": "David",
+      "birthDate": "1991-01-14T22:00:00.000Z",
+      "gender": "male",
+      "salary": 41000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 80
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1972-02-03T22:00:00.000Z",
+      "gender": "male",
+      "salary": 41000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 81
+    },
+    {
+      "name": "Daniel",
+      "birthDate": "1982-08-19T22:00:00.000Z",
+      "gender": "male",
+      "salary": 13000,
+      "department": "Management",
+      "userId": "admin",
+      "id": 83
+    },
+    {
+      "name": "Michael",
+      "birthDate": "1966-07-25T22:00:00.000Z",
+      "gender": "male",
+      "salary": 46500,
+      "department": "Management",
+      "userId": "admin",
+      "id": 84
+    },
+    {
+      "name": "Emily",
+      "birthDate": "1965-03-13T22:00:00.000Z",
+      "gender": "female",
+      "salary": 10000,
+      "department": "Management",
+      "userId": "admin",
+      "id": 85
+    },
+    {
+      "name": "Linda",
+      "birthDate": "2001-03-16T22:00:00.000Z",
+      "gender": "female",
+      "salary": 20500,
+      "department": "Development",
+      "userId": "admin",
+      "id": 86
+    },
+    {
+      "name": "Daniel",
+      "birthDate": "1961-12-16T22:00:00.000Z",
+      "gender": "male",
+      "salary": 37000,
+      "department": "Accounting",
+      "userId": "admin",
+      "id": 87
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1954-03-22T22:00:00.000Z",
+      "gender": "male",
+      "salary": 5000,
+      "department": "Accounting",
+      "userId": "admin",
+      "id": 88
+    },
+    {
+      "name": "John",
+      "birthDate": "1959-08-24T22:00:00.000Z",
+      "gender": "male",
+      "salary": 48000,
+      "department": "Accounting",
+      "userId": "admin",
+      "id": 89
+    },
+    {
+      "name": "Susan",
+      "birthDate": "2002-10-06T21:00:00.000Z",
+      "gender": "female",
+      "salary": 29000,
+      "department": "Audit",
+      "userId": "admin",
+      "id": 90
+    },
+    {
+      "name": "Jessica",
+      "birthDate": "2000-02-26T22:00:00.000Z",
+      "gender": "female",
+      "salary": 48000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 91
+    },
+    {
+      "name": "Jessica",
+      "birthDate": "1958-04-16T22:00:00.000Z",
+      "gender": "female",
+      "salary": 37500,
+      "department": "Development",
+      "userId": "admin",
+      "id": 92
+    },
+    {
+      "name": "Elizabeth",
+      "birthDate": "1977-07-26T22:00:00.000Z",
+      "gender": "female",
+      "salary": 44500,
+      "department": "QA",
+      "userId": "admin",
+      "id": 93
+    },
+    {
+      "name": "James",
+      "birthDate": "1964-06-20T22:00:00.000Z",
+      "gender": "male",
+      "salary": 35500,
+      "department": "Accounting",
+      "userId": "admin",
+      "id": 94
+    },
+    {
+      "name": "Karen",
+      "birthDate": "1995-06-18T21:00:00.000Z",
+      "gender": "female",
+      "salary": 30000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 95
+    },
+    {
+      "name": "John",
+      "birthDate": "1970-11-06T22:00:00.000Z",
+      "gender": "male",
+      "salary": 38500,
+      "department": "Audit",
+      "userId": "admin",
+      "id": 96
+    },
+    {
+      "name": "Elizabeth",
+      "birthDate": "1979-09-29T22:00:00.000Z",
+      "gender": "female",
+      "salary": 28000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 97
+    },
+    {
+      "name": "Jessica",
+      "birthDate": "1990-07-28T21:00:00.000Z",
+      "gender": "female",
+      "salary": 8000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 98
+    },
+    {
+      "name": "William",
+      "birthDate": "1988-12-16T22:00:00.000Z",
+      "gender": "male",
+      "salary": 31000,
+      "department": "Development",
+      "userId": "admin",
+      "id": 99
+    },
+    {
+      "name": "Daniel",
+      "birthDate": "1999-06-17T21:00:00.000Z",
+      "gender": "male",
+      "salary": 18500,
+      "department": "QA",
+      "userId": "admin",
+      "id": 100
+    },
+    {
+      "name": "Joseph",
+      "birthDate": "1951-08-21T21:00:00.000Z",
+      "gender": "male",
+      "salary": 27500,
+      "department": "Development",
+      "userId": "admin",
+      "id": 101
+    },
+    {
+      "name": "Elizabeth",
+      "birthDate": "1962-11-30T22:00:00.000Z",
+      "gender": "female",
+      "salary": 38000,
+      "department": "Accounting",
+      "userId": "admin",
+      "id": 102
+    },
+    {
+      "name": "Linda",
+      "birthDate": "1990-02-26T22:00:00.000Z",
+      "gender": "female",
+      "salary": 25000,
+      "department": "QA",
+      "userId": "admin",
+      "id": 103
+    },
+    {
+      "id": 104,
+      "birthDate": "2005-12-07T00:00:00.000Z",
+      "name": "Vasya",
+      "department": "Accounting",
+      "salary": 5001,
+      "gender": "male",
+      "userId": "admin"
+    }
+  ],
+  "users": [
+    {
+      "email": "user@co.il",
+      "password": "$2a$10$vQwD1qSUkAIgjkQNkbSeDu9kgx649NiPqOzsthqGzgEStD1qx7H42",
+      "id": "user"
+    },
+    {
+      "email": "admin@co.il",
+      "password": "$2a$10$vQwD1qSUkAIgjkQNkbSeDu9kgx649NiPqOzsthqGzgEStD1qx7H42",
+      "id": "admin"
+    }
+  ]
+}
